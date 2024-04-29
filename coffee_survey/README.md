@@ -4,4 +4,4 @@ In 2023 James Hoffman surveyed 4000 US residents to understand how they enjoyed 
 
 Watch James discuss his survey and the results [here](https://youtu.be/bMOOQfeloH0?si=da3OMVy5L4jQ5pXx). You can download the .csv of responses [here](https://bit.ly/gacttCSV).
 
-The easiest way to view my analysis is [here](https://jonah-danziger.github.io/gactt_nocode.html)
+The easiest way to view my analysis is [here](https://jonah-danziger.github.io/)
